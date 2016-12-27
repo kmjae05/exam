@@ -1,0 +1,21 @@
+변수, 함수 관리
+
+
+
+*************github****************
+
+폴더로 이동해서 git bash here
+
+git config --global user.name "id"
+git config --global user.email "email"
+
+git init
+git status
+(ls -al)
+
+git add 파일명.확장자
+git commit -m "메시지"
+git remote add origin "github 경로"
+git push origin master
+
+http://blog.naver.com/jinhwadam1/220763054184
